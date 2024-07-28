@@ -1,0 +1,6 @@
+devtopy
+python-dotenv
+nltk
+wordcloud
+matplotlib
+fire
